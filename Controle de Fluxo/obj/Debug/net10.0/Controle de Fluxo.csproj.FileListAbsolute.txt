@@ -1,0 +1,14 @@
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\bin\Debug\net10.0\Controle de Fluxo.exe
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\bin\Debug\net10.0\Controle de Fluxo.deps.json
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\bin\Debug\net10.0\Controle de Fluxo.runtimeconfig.json
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\bin\Debug\net10.0\Controle de Fluxo.dll
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\bin\Debug\net10.0\Controle de Fluxo.pdb
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\obj\Debug\net10.0\Controle de Fluxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\obj\Debug\net10.0\Controle de Fluxo.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\obj\Debug\net10.0\Controle de Fluxo.AssemblyInfo.cs
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\obj\Debug\net10.0\Controle de Fluxo.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\obj\Debug\net10.0\Controle de Fluxo.dll
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\obj\Debug\net10.0\refint\Controle de Fluxo.dll
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\obj\Debug\net10.0\Controle de Fluxo.pdb
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\obj\Debug\net10.0\Controle de Fluxo.genruntimeconfig.cache
+C:\Users\arthu\source\repos\Estudos C#\Controle de Fluxo\obj\Debug\net10.0\ref\Controle de Fluxo.dll
