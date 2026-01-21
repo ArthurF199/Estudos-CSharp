@@ -9,7 +9,7 @@ namespace Controle_de_Fluxo
         {
             while (true)
             {
-                Ex03_Calculadora.Executar();
+                Ex02_Nota.Executar();
             }
         }
     }

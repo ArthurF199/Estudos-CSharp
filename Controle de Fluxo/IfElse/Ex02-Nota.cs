@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
+//Peça ao usuário suas notas dos 4 bimestres, depois, mostre a média e se passou de ano ou não.
+
 namespace Controle_de_Fluxo.IfElse
 {
     internal class Ex02_Nota
@@ -20,8 +22,17 @@ namespace Controle_de_Fluxo.IfElse
             {
                 media += nota[i];
             }
-            media /= 4;
-            Console.WriteLine(media);
+
+            if ((media /= 4) > 6)
+            {
+                Console.WriteLine($"Sua média foi de {media}");
+                Console.WriteLine("Aprovado!!!");
+            } else
+            {
+                Console.WriteLine($"Sua média foi de {media}");
+                Console.WriteLine("Reprovado!!!");
+            }
+            
         }
     }
 }
