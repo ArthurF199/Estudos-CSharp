@@ -1,5 +1,7 @@
-﻿using Controle_de_Fluxo.IfElse;
-using Controle_de_Fluxo.Switch;
+﻿using System.Linq.Expressions;
+using Controle_de_Fluxo.Estruturas_Condicionais;
+using Controle_de_Fluxo.Laços_de_Repetição;
+
 
 namespace Controle_de_Fluxo
 {
@@ -7,10 +9,7 @@ namespace Controle_de_Fluxo
     {
         static void Main(string[] args)
         {
-            while (true)
-            {
-                Ex02_Nota.Executar();
-            }
+            Laços_de_Repetição.ForLoop.Ex07.Executar();
         }
     }
 }

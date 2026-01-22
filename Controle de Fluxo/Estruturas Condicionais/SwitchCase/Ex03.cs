@@ -23,9 +23,9 @@ using System.Text;
 
 //Mostrar o resultado
 
-namespace Controle_de_Fluxo.Switch
+namespace Controle_de_Fluxo.Estruturas_Condicionais.Switch
 {
-    internal class Ex03_Calculadora
+    internal class Ex03
     {
         public static void Executar()
         {

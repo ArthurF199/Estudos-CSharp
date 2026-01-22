@@ -4,9 +4,9 @@ using System.Text;
 
 //Peça ao usuário suas notas dos 4 bimestres, depois, mostre a média e se passou de ano ou não.
 
-namespace Controle_de_Fluxo.IfElse
+namespace Controle_de_Fluxo.Estruturas_Condicionais.IfElse
 {
-    internal class Ex02_Nota
+    internal class Ex02
     {
         public static void Executar()
         {

@@ -22,9 +22,9 @@ using System.Text;
 
 //Se o número for inválido, mostre uma mensagem de erro.
 
-namespace Controle_de_Fluxo.Switch
+namespace Controle_de_Fluxo.Estruturas_Condicionais.Switch
 {
-    internal class Ex01_DiaDaSemana
+    internal class Ex01
     {
         public static void Executar()
         {

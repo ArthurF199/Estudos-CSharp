@@ -21,9 +21,9 @@ using System.Text;
 
 //Qualquer outro valor → "Opção inválida"
 
-namespace Controle_de_Fluxo.Switch
+namespace Controle_de_Fluxo.Estruturas_Condicionais.Switch
 {
-    internal class Ex02_Menu
+    internal class Ex02
     {
         public static void Executar()
         {
