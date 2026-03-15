@@ -2,6 +2,7 @@
   <Folder Name="/Exercícios/">
     <Project Path="Controle de Fluxo/Controle de Fluxo.csproj" Id="4f389db6-1be4-4875-afc9-8fc9f80abc2f" />
   </Folder>
+  <Project Path="Exercícios Gerais/Exercícios Gerais.csproj" />
   <Project Path="lab/lab.csproj" />
   <Project Path="labTopLevel/labTopLevel.csproj" />
 </Solution>
