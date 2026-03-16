@@ -40,9 +40,10 @@ namespace Exercícios_Gerais.Exercícios
                         break;
                 }
 
-                gradesAverage /= gradesQuantity;
-            }
 
+            }
+            gradesAverage /= gradesQuantity;
+            
             Console.WriteLine($"There is {gradesAverage} of grade average.");
             Console.WriteLine($"There are {averageGradesQuantity} of grades above average.");
             Console.WriteLine($"There are {nonAverageGradesQuantity} of grade not above average.");
