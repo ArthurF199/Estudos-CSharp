@@ -10,7 +10,7 @@ namespace Exercícios_Gerais.Exercícios
         {   
             Console.Write("How many grades? ");
             int gradesQuantity = int.Parse(Console.ReadLine());
-            float gradesAverage = 0;
+            double gradesAverage = 0;
             int averageGradesQuantity = 0;
             int nonAverageGradesQuantity = 0;
             int passQuantity = 0;
@@ -36,6 +36,7 @@ namespace Exercícios_Gerais.Exercícios
                         remedialQuantity += 1;
                         break;
                     default:
+                        nonAverageGradesQuantity += 1;
                         failedQuantity += 1;
                         break;
                 }
