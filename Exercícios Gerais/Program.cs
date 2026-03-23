@@ -1,3 +1,3 @@
 ﻿using Exercícios_Gerais.Exercícios;
 
-ex07.Executar();
+ex08.Executar();
