@@ -32,7 +32,7 @@ namespace Exercícios_Gerais.Exercícios
             }
 
             Console.WriteLine(maior1);
-            Console.WriteLine(maior2);
+
         }
     }
 }
