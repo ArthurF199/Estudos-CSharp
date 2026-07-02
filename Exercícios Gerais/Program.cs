@@ -1,3 +1,3 @@
 ﻿using Exercícios_Gerais.Exercícios;
 
-ex10.Executar();
+ex12.Executar();
