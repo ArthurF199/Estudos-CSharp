@@ -9,7 +9,7 @@ namespace Controle_de_Fluxo
     {
         static void Main(string[] args)
         {
-            Laços_de_Repetição.ForLoop.Ex07.Executar();
+            Laços_de_Repetição.DoWhile.Ex03.Executar();
         }
     }
 }
